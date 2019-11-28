@@ -1,0 +1,154 @@
+Info: CustomCategory:processoportal: 891 mini seconds publishing element
+Info: : 6328 mini-second(s) publishing element DeliveryProcess:processoPortalDiagrama[processoportal\deliveryprocesses\processoPortalDiagrama_A62CB33C.html]
+Info: DeliveryProcess:processoPortalDiagrama: 6375 mini seconds publishing element
+Info: DeliveryProcess:processoPortalDiagrama: 3147 mini seconds publishing process specific layout data
+Info: Phase:Concepcao: 795 mini seconds publishing element
+Info: Activity:Idealizar: 114 mini seconds publishing element
+Info: Activity:Especificar: 285 mini seconds publishing element
+Info: Activity:Requerer: 160 mini seconds publishing element
+Info: Phase:Levantar Requisitos: 111 mini seconds publishing element
+Info: Activity:Definir Requisitos: 143 mini seconds publishing element
+Info: Activity:Validar Requisitos: 146 mini seconds publishing element
+Info: Phase:Projeto: 140 mini seconds publishing element
+Info: Activity:Dialogo com Gerentes: 297 mini seconds publishing element
+Info: Activity:Dialogar com Equipes: 360 mini seconds publishing element
+Info: Phase:Implementacao: 281 mini seconds publishing element
+Info: Activity:Desenvolver Funcionalidades: 125 mini seconds publishing element
+Info: Activity:Criar Artes: 156 mini seconds publishing element
+Info: Phase:Agregacao: 156 mini seconds publishing element
+Info: Activity:d: 109 mini seconds publishing element
+Info: Activity:Agregar Artes + Funcionalidades: 157 mini seconds publishing element
+Info: Activity:Verificar Agregacao: 187 mini seconds publishing element
+Info: Phase:Teste: 141 mini seconds publishing element
+Info: Activity:Testes: 172 mini seconds publishing element
+Info: Activity:Receber Sistema: 109 mini seconds publishing element
+Info: Activity:Resultados Tetes: 141 mini seconds publishing element
+Info: Activity:Resultado_produto: 140 mini seconds publishing element
+Info: Phase:Alteracoes Pos Testes: 94 mini seconds publishing element
+Info: Activity:Receber Portal: 125 mini seconds publishing element
+Info: Activity:Corrigir e Atualizar : 109 mini seconds publishing element
+Info: Phase:Implantacao: 94 mini seconds publishing element
+Info: Activity:Implantar : 140 mini seconds publishing element
+Info: TaskDescriptor:idealizar_portal: 235 mini seconds publishing element
+Info: TaskDescriptor:entender_problema: 15 mini seconds publishing element
+Info: TaskDescriptor:questionar: 47 mini seconds publishing element
+Info: TaskDescriptor:solicitar_portal: 47 mini seconds publishing element
+Info: TaskDescriptor:definir_requisitos: 47 mini seconds publishing element
+Info: TaskDescriptor:validar_requisitos: 47 mini seconds publishing element
+Info: TaskDescriptor:apresentar_ideia_portal: 47 mini seconds publishing element
+Info: TaskDescriptor:apresentar_requisitos: 47 mini seconds publishing element
+Info: TaskDescriptor:prototipar_portal: 62 mini seconds publishing element
+Info: TaskDescriptor:explanar_prototipo: 47 mini seconds publishing element
+Info: TaskDescriptor:dividir_tarefas_arte: 47 mini seconds publishing element
+Info: TaskDescriptor:dividir_tarefas_desenvolvimento: 47 mini seconds publishing element
+Info: TaskDescriptor:estimar_prazo_artes: 47 mini seconds publishing element
+Info: TaskDescriptor:estimar_prazo_desenvolvimento: 46 mini seconds publishing element
+Info: TaskDescriptor:desenvolver_funcionalidades: 47 mini seconds publishing element
+Info: TaskDescriptor:criar_artes: 47 mini seconds publishing element
+Info: TaskDescriptor:agregar_funcionalidades: 47 mini seconds publishing element
+Info: TaskDescriptor:agregar_artes_desenvolvimento: 47 mini seconds publishing element
+Info: TaskDescriptor:avaliar_agregacao: 47 mini seconds publishing element
+Info: TaskDescriptor:validar_agregacao: 47 mini seconds publishing element
+Info: TaskDescriptor:testar_funcionalidades: 47 mini seconds publishing element
+Info: TaskDescriptor:testar_interacao: 31 mini seconds publishing element
+Info: TaskDescriptor:testar_usabilidade: 47 mini seconds publishing element
+Info: TaskDescriptor:receber_sistema: 62 mini seconds publishing element
+Info: TaskDescriptor:retorno_teste: 47 mini seconds publishing element
+Info: TaskDescriptor:devolver_sistema: 47 mini seconds publishing element
+Info: TaskDescriptor:receber_portal: 47 mini seconds publishing element
+Info: TaskDescriptor:correcoes_atualizacao: 47 mini seconds publishing element
+Info: TaskDescriptor:subir_sistema: 47 mini seconds publishing element
+Info: RoleDescriptor:componentes_arte: 421 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedores_portal: 63 mini seconds publishing element
+Info: RoleDescriptor:devops: 47 mini seconds publishing element
+Info: RoleDescriptor:diretor: 47 mini seconds publishing element
+Info: RoleDescriptor:equipe_teste: 62 mini seconds publishing element
+Info: RoleDescriptor:gerente_arte: 47 mini seconds publishing element
+Info: RoleDescriptor:gerente_geral: 47 mini seconds publishing element
+Info: RoleDescriptor:gerente_portal: 47 mini seconds publishing element
+Info: RoleDescriptor:gerente_teste: 47 mini seconds publishing element
+Info: RoleDescriptor:idealizador: 47 mini seconds publishing element
+Info: WorkProductDescriptor:solicitar_protocolo: 312 mini seconds publishing element
+Info: WorkProductDescriptor:arte_finalizada: 31 mini seconds publishing element
+Info: WorkProductDescriptor:artes_criadas: 47 mini seconds publishing element
+Info: WorkProductDescriptor:avaliacao_testes: 47 mini seconds publishing element
+Info: WorkProductDescriptor:compreender_projeto: 47 mini seconds publishing element
+Info: WorkProductDescriptor:compreender_requisitos: 46 mini seconds publishing element
+Info: WorkProductDescriptor:compreensao_portal: 47 mini seconds publishing element
+Info: WorkProductDescriptor:especificacao_requisistos: 47 mini seconds publishing element
+Info: WorkProductDescriptor:especificao_requisitos_revisada: 47 mini seconds publishing element
+Info: WorkProductDescriptor:especificar_dificuldade_arte: 47 mini seconds publishing element
+Info: WorkProductDescriptor:estimar_prazo_arte: 47 mini seconds publishing element
+Info: WorkProductDescriptor:estimar_prazo_desenvolvimento: 47 mini seconds publishing element
+Info: WorkProductDescriptor:explanacao_portal: 47 mini seconds publishing element
+Info: WorkProductDescriptor:explanar_necessidade: 62 mini seconds publishing element
+Info: WorkProductDescriptor:forma_resolucao: 47 mini seconds publishing element
+Info: WorkProductDescriptor:funcionalidades_desenvolvidas: 47 mini seconds publishing element
+Info: WorkProductDescriptor:funcionalidades_separadas: 78 mini seconds publishing element
+Info: WorkProductDescriptor:funcionalidades: 47 mini seconds publishing element
+Info: WorkProductDescriptor:idealizar_arte: 47 mini seconds publishing element
+Info: WorkProductDescriptor:ideia_portal: 47 mini seconds publishing element
+Info: WorkProductDescriptor:interacao: 46 mini seconds publishing element
+Info: WorkProductDescriptor:listar_tarefas: 47 mini seconds publishing element
+Info: WorkProductDescriptor:montar_prototipo: 47 mini seconds publishing element
+Info: WorkProductDescriptor:mostrar_prototipo: 47 mini seconds publishing element
+Info: WorkProductDescriptor:mostrar_requisitos: 78 mini seconds publishing element
+Info: WorkProductDescriptor:necessidade_existente: 47 mini seconds publishing element
+Info: WorkProductDescriptor:necessidade_portal: 47 mini seconds publishing element
+Info: WorkProductDescriptor:objeto_requerido: 47 mini seconds publishing element
+Info: WorkProductDescriptor:partes_separadas: 47 mini seconds publishing element
+Info: WorkProductDescriptor:portal_publicado: 47 mini seconds publishing element
+Info: WorkProductDescriptor:problema: 46 mini seconds publishing element
+Info: WorkProductDescriptor:produto_final: 47 mini seconds publishing element
+Info: WorkProductDescriptor:protocolo_aberto: 47 mini seconds publishing element
+Info: WorkProductDescriptor:prototipo_finalizado: 47 mini seconds publishing element
+Info: WorkProductDescriptor:recebe_sistema: 47 mini seconds publishing element
+Info: WorkProductDescriptor:resultado_analise: 47 mini seconds publishing element
+Info: WorkProductDescriptor:sistema_finalizado: 47 mini seconds publishing element
+Info: WorkProductDescriptor:sistema_testado: 47 mini seconds publishing element
+Info: WorkProductDescriptor:sistema_validado: 46 mini seconds publishing element
+Info: WorkProductDescriptor:tarefas_divididas: 47 mini seconds publishing element
+Info: WorkProductDescriptor:uniao_arte_funcionalidade: 47 mini seconds publishing element
+Info: WorkProductDescriptor:unir_funcionalidades: 47 mini seconds publishing element
+Info: WorkProductDescriptor:usabilidade: 47 mini seconds publishing element
+Info: RoleDescriptor:idealizador: 47 mini seconds publishing element
+Info: RoleDescriptor:diretor: 47 mini seconds publishing element
+Info: RoleDescriptor:idealizador: 47 mini seconds publishing element
+Info: RoleDescriptor:gerente_geral: 46 mini seconds publishing element
+Info: RoleDescriptor:idealizador: 47 mini seconds publishing element
+Info: RoleDescriptor:gerente_geral: 47 mini seconds publishing element
+Info: RoleDescriptor:idealizador: 47 mini seconds publishing element
+Info: WorkProductDescriptor:resultado_analise: 47 mini seconds publishing element
+Info: RoleDescriptor:gerente_geral: 47 mini seconds publishing element
+Info: RoleDescriptor:gerente_arte: 47 mini seconds publishing element
+Info: RoleDescriptor:gerente_portal: 47 mini seconds publishing element
+Info: RoleDescriptor:componentes_arte: 46 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedores_portal: 47 mini seconds publishing element
+Info: WorkProductDescriptor:objeto_requerido: 47 mini seconds publishing element
+Info: RoleDescriptor:componentes_arte: 47 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedores_portal: 31 mini seconds publishing element
+Info: RoleDescriptor:gerente_arte: 16 mini seconds publishing element
+Info: RoleDescriptor:gerente_portal: 16 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedores_portal: 0 mini seconds publishing element
+Info: RoleDescriptor:componentes_arte: 15 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedores_portal: 0 mini seconds publishing element
+Info: RoleDescriptor:gerente_arte: 16 mini seconds publishing element
+Info: RoleDescriptor:gerente_teste: 0 mini seconds publishing element
+Info: WorkProductDescriptor:sistema_validado: 15 mini seconds publishing element
+Info: WorkProductDescriptor:sistema_validado: 0 mini seconds publishing element
+Info: RoleDescriptor:equipe_teste: 16 mini seconds publishing element
+Info: WorkProductDescriptor:funcionalidades: 0 mini seconds publishing element
+Info: WorkProductDescriptor:interacao: 16 mini seconds publishing element
+Info: WorkProductDescriptor:usabilidade: 0 mini seconds publishing element
+Info: RoleDescriptor:gerente_teste: 15 mini seconds publishing element
+Info: WorkProductDescriptor:avaliacao_testes: 0 mini seconds publishing element
+Info: RoleDescriptor:desenvolvedores_portal: 16 mini seconds publishing element
+Info: RoleDescriptor:gerente_arte: 0 mini seconds publishing element
+Info: RoleDescriptor:gerente_portal: 16 mini seconds publishing element
+Info: RoleDescriptor:gerente_teste: 15 mini seconds publishing element
+Info: WorkProductDescriptor:sistema_testado: 0 mini seconds publishing element
+Info: RoleDescriptor:gerente_portal: 16 mini seconds publishing element
+Info: WorkProductDescriptor:sistema_testado: 0 mini seconds publishing element
+Info: RoleDescriptor:devops: 15 mini seconds publishing element
+Info: WorkProductDescriptor:produto_final: 0 mini seconds publishing element
+Info: : Publishing time: 0 minutes 42 seconds
